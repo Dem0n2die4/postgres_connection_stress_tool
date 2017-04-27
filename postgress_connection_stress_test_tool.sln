@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "postgress_connection_stress_test_tool", "postgress_connection_stress_test_tool\postgress_connection_stress_test_tool.csproj", "{07589621-69D4-4FA7-80AA-6C4166C48075}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07589621-69D4-4FA7-80AA-6C4166C48075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07589621-69D4-4FA7-80AA-6C4166C48075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07589621-69D4-4FA7-80AA-6C4166C48075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07589621-69D4-4FA7-80AA-6C4166C48075}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
